@@ -2,6 +2,7 @@
 
 In this GIT you will find the R-files for the plots in the assignment and the plots inside the folder figure.
 Prerequisite to use the R-files is to have the <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> dataset and having unzipped it in your working directory.
+
 -> the file household_power_consumption.txt must be inside your working directory.
 
 I came across a differing output of weekday names in the plots if I didn’t switch my locale to English with the following command:
